@@ -1,8 +1,7 @@
 # Mi Portfolio Data Analytics
-¡Hola! Soy Miguel, analista de datos con experiencia en Python, SQL y visualización de datos. En este repositorio comparto algunos de mis proyectos más relevantes.
 
 ## 🧠 Sobre mí
-Soy apasionado/a por transformar datos en información útil. Me gusta trabajar con datos reales y resolver problemas de negocio.
+¡Hola! Soy Miguel, graduado en Biología con formación como **Data Analyst** a través de un bootcamp intensivo. Apasionado por el análisis de datos, la visualización y la automatización de procesos. Destaco por mi pensamiento analítico, desarrollado durante mi formación científica y experiencia en laboratorio, y por mi rápida capacidad de aprendizaje, demostrada en el bootcamp. Manejo con soltura herramientas como **SQL, R, Python y Power BI**.
 
 ## 🛠️ Tecnologías
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
