@@ -7,18 +7,31 @@
 - Excel
 - Power BI / Tableau
 - SQL
-- R
+- R (dplyr, tidyr, readr, stringr, ggplot2)
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Machine Learning
 
 ## 📂 Proyectos
 
-1. **Análisis de ventas**
-   - Predicción de ingresos
+1. **Proyecto final - Comparativa de emisiones de CO2**
+   - Predicción de las emisiones de CO2 de distintos tipos de vehículos
    - Limpieza de datos
    - Visualización interactiva
    - [Ver proyecto](./proyectos/proyecto_ventas)
 
-## 👤​ Contacta Conmigo
+2. **Dashboard de ventas - Cafetería**
+   - Limpieza de datos
+   - Análisis visual
+   - Dashoard interactivo
+   - [Ver proyecto]
+  
+3. **Análisis de Ventas - Automóviles**
+   - Limpieza de datos
+   - Visualización de tendencias
+   - [Ver proyecto]
+
+4. **Proyectos SQL**
+
+## 👤​ Contacta conmigo
    - 📧​ [miguelvehe@hotmail.es](mailto:miguelvehe@hotmail.es)
    - 🔗 [LinkedIn](https://www.linkedin.com/in/miguel-velasco-hernando/)
