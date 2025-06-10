@@ -16,3 +16,7 @@
    - Limpieza de datos
    - Visualización interactiva
    - [Ver proyecto](./proyectos/proyecto_ventas)
+
+## 📂 Contacta Conmigo
+   - Email: miguelvehe@hotmail.es
+   - Linkedin: https://www.linkedin.com/in/miguel-velasco-hernando/
