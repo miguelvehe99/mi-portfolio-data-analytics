@@ -4,10 +4,12 @@
 ¡Hola! Soy Miguel, graduado en Biología con formación como **Data Analyst** a través de un bootcamp intensivo. Apasionado por el análisis de datos, la visualización y la automatización de procesos. Destaco por mi pensamiento analítico, desarrollado durante mi formación científica y experiencia en laboratorio, y por mi rápida capacidad de aprendizaje, demostrada en el bootcamp. Manejo con soltura herramientas como **SQL, R, Python y Power BI**.
 
 ## 🛠️ Tecnologías
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- SQL
-- Power BI / Tableau
 - Excel
+- Power BI / Tableau
+- SQL
+- R
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Machine Learning
 
 ## 📂 Proyectos
 
@@ -17,6 +19,6 @@
    - Visualización interactiva
    - [Ver proyecto](./proyectos/proyecto_ventas)
 
-## 📂 Contacta Conmigo
-   - Email: miguelvehe@hotmail.es
-   - Linkedin: https://www.linkedin.com/in/miguel-velasco-hernando/
+## 👤​ Contacta Conmigo
+   - 📧​ [miguelvehe@hotmail.es](mailto:miguelvehe@hotmail.es)
+   - 🔗 [LinkedIn](https://www.linkedin.com/in/miguel-velasco-hernando/)
