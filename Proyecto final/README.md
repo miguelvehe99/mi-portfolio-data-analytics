@@ -2,7 +2,7 @@
 
 Este análisis se basa en los datos proporcionados por la **Agencia Europea de Medio Ambiente (EEA)**, disponibles públicamente en su [Datahub](https://www.eea.europa.eu/en/datahub/datahubitem-view/1c1ffad2-34c3-471b-bd69-dd013cdd7b80). El objetivo es comparar las emisiones medias de dióxido de carbono (CO₂) por kilómetro de vehículos nuevos de pasajeros según su tipo de motorización: combustión tradicional (diésel y gasolina) frente a híbridos no enchufables.  
 
-![Foto%20EEA](https://www.eea.europa.eu/sites/default/files/styles/eea_image_style_1200x675/public/2023-01/eionet-plus-text-2023-standard.png)
+![EEA](https://www.eea.europa.eu/en/newsroom/branding-materials/eea-logo/@@images/image/preview)
 
 ## 📁 Fuente de datos
 
