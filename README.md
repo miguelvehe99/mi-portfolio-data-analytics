@@ -17,7 +17,7 @@
    - Predicción de las emisiones de CO2 de distintos tipos de vehículos
    - Limpieza de datos
    - Visualización interactiva
-   - [Ver proyecto](./proyectos/proyecto_ventas)
+   - [Ver proyecto](./Proyecto final)
 
 2. **Dashboard de ventas - Cafetería**
    - Limpieza de datos
