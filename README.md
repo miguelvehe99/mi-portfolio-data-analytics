@@ -10,13 +10,13 @@
    - Predicción de las emisiones de CO2 de distintos tipos de vehículos
    - Limpieza de datos
    - Visualización interactiva
-   - [Ver proyecto](./Proyecto%20final/README.md)
+   - [Ver proyecto](./Proyecto%20final)
 
 2. **Dashboard de ventas - Cafetería**
    - Limpieza de datos
    - Análisis visual
    - Dashoard interactivo
-   - [Ver proyecto](./Proyecto%20cafetería/README.md)
+   - [Ver proyecto](./Proyecto%20cafetería)
   
 3. **Análisis de Ventas - Automóviles**
    - Limpieza de datos
@@ -24,39 +24,40 @@
    - [Ver proyecto]
 
 
-## Tecnologías y herramientas de análisis de datos
+## Tecnologías y herramientas 
 
 ### Lenguajes de programación
-- **Python**
+- **Python:**
   - Librerías: `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`
   - Análisis, limpieza y visualización de datos
-- **R**
+- **R:**
   - Librerías: `dplyr`, `tidyr`, `readr`, `stringr`, `ggplot2`
   - Manipulación, análisis estadístico y visualización
-- **SQL**
+- **SQL:**
   - Consultas, joins, agregaciones, subconsultas, limpieza de datos
 
 ### Herramientas de visualización
-- **Power BI**
+- **Power BI:**
   - Dashboards, modelado de datos, DAX, filtros y segmentación
-- **Tableau**
+- **Tableau:**
   - Creación de informes y visualizaciones interactivas
-- **Excel**
+- **Excel:**
   - Tablas dinámicas, dashboards, consultas complejas, análisis de datos
 
 ### Machine Learning
 - **Modelos**
-  - Modelos supervisados: regresión lineal, regresión logística, KNN, random forest, redes neuronales
-  - Modelos no supervisados: reducción de la dimensionalidad (PCA) y clustering (K-Means)
+  - Modelos supervisados: `regresión lineal`, `regresión logística`, `KNN`, `random forest`, `redes neuronales`
+  - Modelos no supervisados: reducción de la dimensionalidad (`PCA`) y clustering (`K-Means`)
   
-- **Frameworks**
-  - `scikit-learn` (Python)
+- **Librerías**
+  - `scikit-learn`
 
 ### Otras aptitudes
 - Análisis exploratorio de datos
 - Preparación y limpieza de datasets
 - Interpretación de resultados y generación de insights
 - Trabajo colaborativo en proyectos de análisis de datos end-to-end
+
 
 ## Contacta conmigo
    - 📧​ [miguelvehe@hotmail.es](mailto:miguelvehe@hotmail.es)
