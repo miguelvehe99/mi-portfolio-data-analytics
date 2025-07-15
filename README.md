@@ -12,14 +12,14 @@ Soy una persona práctica, resolutiva y con facilidad para aprender y adaptarme 
    - <ins>Tecnologías:</ins> **Python** (Pandas, Numpy, Matplotlib, Seaborn), **scikit-kearn**
    - <ins>Fases:</ins> limpieza de datos, análisis exploratorio, PCA mixto, clustering, regresión lineal y random forest.
    - <ins>Conclusiones:</ins> identificación de patrones según marca, potencia y tipo de combustible.
-   - <ins>[Ver proyecto](./Proyecto%20final)
+   - [Ver proyecto](./Proyecto%20final)
 
 2. **Análisis de ventas - Cafetería**
    - <ins>Objetivo:</ins> Detectar patrones de consumo y evaluar la rentabilidad de productos.
    - <ins>Tecnologías:</ins> **Python** (Pandas, NumPy, Seaborn), **Power BI**.
    - <ins>Fases:</ins> Limpieza de datos, análisis exploratorio, creación de dashboard en Power BI.
    - <ins>Conclusiones:</ins> visualización de los productos más vendidos, ventas y facturación mensual y diaria, mantenimiento de un catálogo variado.
-   - <ins>[Ver proyecto](./Proyecto%20cafetería)
+   - [Ver proyecto](./Proyecto%20cafetería)
 
 
 ## Tecnologías y herramientas 
