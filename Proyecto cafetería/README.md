@@ -48,6 +48,7 @@ El objetivo principal del proyecto es analizar las ventas de productos de una ca
 - 📸 Se incluye una captura de pantalla del dashboard final.
 
 ## Conclusiones
+
 ![Dashboard Power BI](Dashboard%20Cafeter%C3%ADa.png)
 
 - Se han vendido **más de 3000 unidades por producto**, con un total de **25.908 unidades**.
