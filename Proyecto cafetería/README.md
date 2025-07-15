@@ -70,6 +70,6 @@ El objetivo principal del proyecto es analizar las ventas de productos de una ca
 ---
 
 Si tienes alguna duda o sugerencia sobre el proyecto, puedes contactar conmigo a través de:  
-📧 [miguelvehe@hotmail.es](mailto:miguelvehe@hotmail.es)
-🔗 [LinkedIn](https://www.linkedin.com/in/miguel-velasco-hernando/)
+- 📧 [miguelvehe@hotmail.es](mailto:miguelvehe@hotmail.es)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/miguel-velasco-hernando/)
 
